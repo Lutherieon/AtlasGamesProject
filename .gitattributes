@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Git LFS
+Content/Characters/Metahuman/MHC_Deneme.uasset filter=lfs diff=lfs merge=lfs -text
