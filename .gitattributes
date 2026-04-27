@@ -3,3 +3,6 @@
 
 # Git LFS
 Content/Characters/Metahuman/MHC_Deneme.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Characters/Metahuman/MHC_KVOTHE.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/MHC_Kvothe/Face/SKM_MHC_Kvothe_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/MHC_Kvothe/Grooms/GroomAsset_0.uasset filter=lfs diff=lfs merge=lfs -text
